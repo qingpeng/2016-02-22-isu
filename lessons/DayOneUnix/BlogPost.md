@@ -22,6 +22,7 @@ https://github.com/qingpeng/2016-02-22-isu/tree/gh-pages/lessons/Day1Afternoon-S
 (Jin taught the shell/automation stuffs in the afternoon.)
 [You are all welcome to edit this section if there is any inaccuracy here.]
 
++ [Qingpeng] I used Jason's instruction to help with Amazon AWS setup and it worked very good. https://jasonjwilliamsny.github.io/cloud-genomics/
 
 
 ##What Didn't
